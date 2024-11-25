@@ -1,0 +1,9 @@
+pages
+backend/node_modules
+backend/__pycache__
+frontend/node_modules
+avg_elev.json
+chennai-population-data.md
+flood_dataset_realistic_new_balanced.csv
+Home.py
+ward_population_dict.json
